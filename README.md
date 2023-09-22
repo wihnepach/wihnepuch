@@ -1,6 +1,7 @@
 Startup
 1.application for hypermarkets.
 Problem:
+
 It is usually very difficult to find the current product in large stores.
 1. Ignorance of the location of the department with the product.
 2. Ignorance of the path to changing the product.
